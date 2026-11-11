@@ -1,4 +1,4 @@
-<img width="2400" height="720" alt="image" src="https://github.com/user-attachments/assets/b2a67fd3-0d15-49e7-a920-f25a057be55c" />
+<img width="2400" height="720" alt="image" src="welcome.svg"/>
 
 ## - 🖥️ Software Developer
 ## - 👾 Game Developer
