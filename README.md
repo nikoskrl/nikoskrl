@@ -1,8 +1,10 @@
 <img width="2400" height="720" alt="image" src="welcome.svg"/>
 
-## - 🖥️ Software Developer
+## - 🖥️ Software Engineer
 ## - 👾 Game Developer
 ## - 📝 Student
+
+> I build small code projects to learn and sharpen my skills. Some are polished, others are works in progress, and all of them show how I think and solve problems. Have a look around, and feel free to reach out!
 
 ### Currently learning & building on:
 
